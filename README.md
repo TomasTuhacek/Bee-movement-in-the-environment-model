@@ -9,7 +9,7 @@ The input files have been created and visualization of the results was performed
 (For user-own input files and visualization, ArcGIS desktop of similar software is required)
 
 The downloaded  file (Bee-movement-in-the-environment-model--master.zip) should be placed in gama_workspace folder and extracted
-the zip archive (project.zip) should be extracted as well to get .project file
+The zip archive (project.zip) should be extracted as well to get .project file
 
 Read Bee movement in the environment model manual before using or in case of any problems
 For more detailed info about the model read ODD Protocol  
