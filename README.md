@@ -11,3 +11,6 @@ The downloaded file (GAMA Project) should be placed in gama_workspace folder
 
 Read Bee movement in the environment model manual before using or in case of any problems
 For more detailed info about the model read ODD Protocol  
+
+This model was created as part of the master thesis  Integration and practical use of spatial agent-based models
+Department of Geoinformatics, Palacky University Olomouc 
